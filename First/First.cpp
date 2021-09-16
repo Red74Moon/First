@@ -10,7 +10,7 @@ int main()
 	char e = 'e';
 	char l = 'l';
 	char o = 'o';
-
+	  
 	cout << MyGold << endl;
 	cout << HP << endl;
 	cout << H << e << l << l << o << endl;
